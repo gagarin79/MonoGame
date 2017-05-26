@@ -2,7 +2,7 @@
 <package xmlns=""http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd"">
     <metadata>
         <id>MonoGame.Framework.Tools</id>
-        <version>`$version$</version>
+        <version>$version$</version>
         <title>MonoGame.Framework.Tools</title>
         <authors>MonoGameTeam</authors>
         <owners>MonoGameTeam</owners>
