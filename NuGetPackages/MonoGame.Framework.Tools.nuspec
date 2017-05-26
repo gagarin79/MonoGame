@@ -1,5 +1,5 @@
-<?xml version=""1.0"" encoding=""utf-8""?>
-<package xmlns=""http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd"">
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
     <metadata>
         <id>MonoGame.Framework.Tools</id>
         <version>$version$</version>
@@ -17,9 +17,9 @@
         <language>en-US</language>
 	</metadata>
     <files>
-        <file src=""Windows\AnyCPU\Release\*.dll"" target=""build\Tools"" />
-        <file src=""Windows\AnyCPU\Release\*.exe"" target=""build\Tools"" />
-        <file src=""Windows\AnyCPU\Release\Templates\*.*"" target=""build\Tools\Templates"" />
-        <file src=""..\..\..\MonoGame.Framework.Content.Pipeline\MonoGame.Content.Builder.targets"" target=""build\MonoGame.Content.Builder.targets"" />
+        <file src="Windows\AnyCPU\Release\*.dll" target="build\Tools" />
+        <file src="Windows\AnyCPU\Release\*.exe" target="build\Tools" />
+        <file src="Windows\AnyCPU\Release\Templates\*.*" target="build\Tools\Templates" />
+        <file src="..\..\..\MonoGame.Framework.Content.Pipeline\MonoGame.Content.Builder.targets" target="build\MonoGame.Content.Builder.targets" />
     </files>
 </package>
